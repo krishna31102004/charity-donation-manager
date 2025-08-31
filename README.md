@@ -63,12 +63,12 @@ Select a simulator (e.g., iPhone 15 Pro) → **Run (▶)**
 
 MIT © 2025 Krishna Balaji
 
-````
+
 
 ---
 
 ### 📄 LICENSE
-```text
+
 MIT License
 
 Copyright (c) 2025 Krishna Balaji
