@@ -1,4 +1,3 @@
-````markdown
 # CharityDonationManager — iOS (SwiftUI)
 
 A clean iOS app built with **SwiftUI** that allows users to discover charities, view details, and donate. Features include favorites, donation history, authentication, and location-based charity discovery.
